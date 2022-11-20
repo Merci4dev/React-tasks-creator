@@ -1,0 +1,102 @@
+
+{   
+    "frameworks":[
+        {
+            "id": 1,
+            "name": "React",
+            "web": "https://es.reactjs.org/",
+            "img": "https://picsum.photos/id/1/200/300/"
+        },
+        {
+            "id": 2,
+            "name": "Vue",
+            "web": "https://vuejs.org/",
+            "img": "https://picsum.photos/id/2/200/300/"
+        },
+        {
+            "id": 3,
+            "name": "Angular",
+            "web": "https://angular.io/",
+            "img": "https://picsum.photos/id/3/200/300/"
+        },
+        {
+            "id": 4,
+            "name": "Polymer",
+            "web": "https://polymer-library.polymer-project.org/",
+            "img": "https://picsum.photos/id/4/200/300/"
+        },
+        {
+            "id": 5,
+            "name": "Svelte",
+            "web": "https://svelte.dev/",
+            "img": "https://picsum.photos/id/5/200/300/"
+        },
+        {
+            "id": 6,
+            "name": "Bootstrap",
+            "web": "https://getbootstrap.com/",
+            "img": "https://picsum.photos/id/6/200/300/"
+        }
+    ],
+    "lengujes":[
+        {
+            "id": 1,
+            "name": "Javascript",
+            "web": "https://javascriptk.org/"
+        },
+        {
+            "id": 2,
+            "name": "PHP",
+            "web": "https://php.org/"
+        },
+        {
+            "id": 3,
+            "name": "Python",
+            "web": "https://python.io/"
+        },
+        {
+            "id": 4,
+            "name": "HTML",
+            "web": "https://html.org/"
+        },
+        {
+            "id": 5,
+            "name": "CSS",
+            "web": "https://css.dev/"
+        },
+        {
+            "id": 6,
+            "name": "Ruby",
+            "web": "https://ruby.com/"
+        }
+    ],
+    "roles": [
+        {
+            "id":1,
+            "name":"Angel",
+            "role": "Maquetador",
+            "responsability": "Maquetar"
+        },
+        {
+            "id":2,
+            "name":"Belta",
+            "role": "Deseñadora",
+            "responsability": [
+                "Diseñat", "Maqutart", "id1"
+            ]
+        },
+        {
+            "id":3,
+            "name":"Carlos",
+            "role": "Programador",
+            "responsability": [
+                {
+                    "programar": "programar",
+                    "diseñar": "id2",
+                    "maquetar": "id1"
+                }
+            ]
+        }
+        
+    ]
+}

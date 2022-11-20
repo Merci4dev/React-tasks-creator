@@ -1,0 +1,11 @@
+{
+    "initialDB":[
+        {
+            "id":1,
+            "name": "Merci",
+            "lastname":"Lopes",
+            "age":39,
+            "email":"lopes@gmail.es"
+          }
+    ]
+}
